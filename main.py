@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from gemini_test import get_gemini_response, update_google_drive_content, input_prompt
+from engine import get_gemini_response, update_google_drive_content, input_prompt
 import telebot
 from telebot import util
 import os
