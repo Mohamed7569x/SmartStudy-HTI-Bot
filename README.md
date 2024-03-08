@@ -1,4 +1,4 @@
-# Project Name: EduSearch-HTI Bot
+# EduSearch-HTI Bot
 
 ### Overview:
 EduSearch-HTI Bot is an AI educational file search bot. This bot utilizes AI capabilities to understand and analyze user commands to search for curricula and required files within your Google Drive data.
