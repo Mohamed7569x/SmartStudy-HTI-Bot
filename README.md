@@ -15,4 +15,4 @@ Educational purpose: The bot is programmed for educational purposes, aiming to a
 - Refer to the comments within the code to gain a better understanding of its functionality and configuration options.
 
 ### Contact:
-For inquiries or feedback, please contact [mmedo7569@gmail.com].
+For inquiries or feedback, please contact [mohamed.khaled7569@gmail.com].
